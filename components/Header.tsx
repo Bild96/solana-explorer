@@ -11,7 +11,7 @@ export default function Header() {
           <Link href="/">
             <img
               src={`/logo.png`}
-              alt="Thirdweb Logo"
+              alt="solana-explorer"
               className={styles.headerLogo}
             />
           </Link>

@@ -10,12 +10,12 @@ const Home: NextPage = () => {
     <>
       <div className={styles.container}>
         <div className={styles.iconContainer}>
-          <img src={"/thirdweb.svg"} className={styles.icon} />
+          
           <img src={"/sol.png"} className={styles.icon} />
         </div>
-        <h1 className={styles.h1}>Solana, meet thirdweb 👋</h1>
+        <h1 className={styles.h1}>Solana Explorer 🔍</h1>
         <p className={styles.explain}>
-          Explore what you can do with thirdweb&rsquo;s brand new{" "}
+          Explore what you can do with&rsquo; {" "}
           <b>
             <a
               href="https://portal.thirdweb.com/solana"
