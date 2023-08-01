@@ -5,7 +5,7 @@
 
 ### Live Demo
 
-Try The live demo here: https://solana-explorer.surge.sh/
+started server on 0.0.0.0:3000: [localhost](http://localhost:3000)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -16,6 +16,9 @@ install [Phantom Solana Web Extension](https://phantom.app/)
 ```
 ```
 cd solana-explorer
+```
+```
+yarn
 ```
 ```
 yarn dev
